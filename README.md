@@ -24,20 +24,17 @@ Modify the following section in the script to match your server IPs and credenti
 
 ```batch
 :: Edit these values to match your servers
-set SERVER1=192.168.50.230
-set SERVER2=192.168.50.231
-set SERVER3=192.168.50.232
-set SERVER4=192.168.50.233
+set SERVER1=192.168.50.000
+set SERVER2=192.168.50.000
+set SERVER3=192.168.50.000
 
 :: Credentials for each server
-set USERNAME1=admin
-set PASSWORD1=admin
-set USERNAME2=admin
-set PASSWORD2=admin
-set USERNAME3=admin
-set PASSWORD3=admin
-set USERNAME4=admin
-set PASSWORD4=admin
+set USERNAME1=usr
+set PASSWORD1=pass
+set USERNAME2=usr
+set PASSWORD2=pass
+set USERNAME3=usr
+set PASSWORD3=pass
 ```
 
 ## Adding More Servers
