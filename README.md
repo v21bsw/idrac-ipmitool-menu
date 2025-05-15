@@ -4,6 +4,7 @@
 This script provides an interactive menu to control the fan speeds of multiple Dell servers using IPMI commands. It allows users to manually set fan speeds, check temperatures, turn fans off, and power servers on/off.
 
 ## Features
+- Check Wattage
 - Set custom fan speed (10% to 100%)
 - Set all fans to 10% or 100%
 - Enable automatic fan control mode
